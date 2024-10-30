@@ -1,0 +1,20 @@
+
+ HOW TO USE CONTACT FORM :
+
+ Please  First go to dashboard of wordpress -> contact ->edit.
+
+ Include [hiddenreferer referer name:referer] anywhere in form tab above submit button.
+
+ Also Include REFERRER :  [referer] in the MessageBody Tab.
+ 
+ You can also add new fields in the form by using generatetag button.
+
+
+ HOW TO CHECK DATABASE :
+
+ To check Database go to dashboardof wordpress -> contact -> edit -> database.
+
+ select appropriate contact form
+
+ 
+
